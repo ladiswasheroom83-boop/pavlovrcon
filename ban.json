@@ -18,5 +18,9 @@
     "CALISAINT.209": {
         "banneduntil": "2026-08-03 17:02:00",
         "BanReason": "Mass Prop Block (banned for 1w)"
+    },
+    "reaperdrone743": {
+        "banneduntil": "2026-07-29 17:29:15",
+        "BanReason": "Repeated Prop Block (banned for 2d)"
     }
 }
