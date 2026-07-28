@@ -50,5 +50,9 @@
     "jacobisalser": {
         "banneduntil": "2026-08-04 05:59:06",
         "BanReason": "Mass Prop Block (banned for 7d)"
+    },
+    "dogs1": {
+        "banneduntil": "2027-07-23 07:03:10",
+        "BanReason": "Classified (banned for 12mo)"
     }
 }
