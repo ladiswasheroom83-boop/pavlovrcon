@@ -62,5 +62,9 @@
     "BulkMush": {
         "banneduntil": "2026-08-13 09:11:22",
         "BanReason": "Mass Prop Block (banned for 14d)"
+    },
+    "henhub": {
+        "banneduntil": "2026-07-31 11:26:43",
+        "BanReason": "Prop Block (banned for 1d)"
     }
 }
