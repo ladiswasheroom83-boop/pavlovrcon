@@ -98,5 +98,9 @@
     "unclestevejr": {
         "banneduntil": "2026-08-29 19:08:08",
         "BanReason": "Racism (banned for 1mo)"
+    },
+    "EOtech.Sight": {
+        "banneduntil": "2026-07-31 19:38:32",
+        "BanReason": "RDM (banned for 1d)"
     }
 }
