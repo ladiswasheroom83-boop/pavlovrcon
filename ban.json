@@ -74,5 +74,9 @@
     "iLoveTheJewishCommunity": {
         "banneduntil": "2026-08-02 12:27:52",
         "BanReason": "Prop Block (banned for 3d)"
+    },
+    "ILoveJewishTheCommunity": {
+        "banneduntil": "2026-08-06 12:32:46",
+        "BanReason": "Prop Block (banned for 7d)"
     }
 }
