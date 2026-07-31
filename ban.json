@@ -122,5 +122,9 @@
     "NorthKoreanPatriot": {
         "banneduntil": "2026-08-05 10:11:56",
         "BanReason": "prop block and slur use (banned for 5d)"
+    },
+    "porblox_rorn": {
+        "banneduntil": "2029-01-16 14:21:06",
+        "BanReason": "Hard R (banned for 30mo)"
     }
 }
