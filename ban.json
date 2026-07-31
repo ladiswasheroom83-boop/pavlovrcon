@@ -134,5 +134,9 @@
     "Cross.man": {
         "banneduntil": "2026-08-07 19:12:41",
         "BanReason": "major prob block (banned for 7d)"
+    },
+    "dreadhead_daddtk2_BWE": {
+        "banneduntil": "2026-08-01 19:18:04",
+        "BanReason": "leaving during raid (banned for 1d)"
     }
 }
