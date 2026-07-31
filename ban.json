@@ -128,7 +128,7 @@
         "BanReason": "Hard R (banned for 30mo)"
     },
     "test": {
-        "banneduntil": "2026-07-31 19:03:31",
-        "BanReason": "test (banned for 2s)"
+        "banneduntil": "2026-07-31 19:04:56",
+        "BanReason": "test (banned for 1s)"
     }
 }
