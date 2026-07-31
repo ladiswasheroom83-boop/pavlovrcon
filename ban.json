@@ -122,5 +122,9 @@
     "cross.man": {
         "banneduntil": "2026-08-07 02:32:38",
         "BanReason": "prop block (banned for 1w)"
+    },
+    "NorthKoreanPatriot": {
+        "banneduntil": "2026-08-05 10:11:56",
+        "BanReason": "prop block and slur use (banned for 5d)"
     }
 }
