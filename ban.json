@@ -102,5 +102,9 @@
     "EOtech.Sight": {
         "banneduntil": "2026-07-31 19:38:32",
         "BanReason": "RDM (banned for 1d)"
+    },
+    "seabass3": {
+        "banneduntil": "2029-07-14 21:09:28",
+        "BanReason": "Hard R (banned for 36mo)"
     }
 }
