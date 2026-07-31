@@ -122,5 +122,9 @@
     "H.I.M.67": {
         "banneduntil": "2027-07-25 23:17:34",
         "BanReason": "H.I.M.67 (banned for 12mo)"
+    },
+    "cross.man": {
+        "banneduntil": "2026-08-07 02:32:38",
+        "BanReason": "prop block (banned for 1w)"
     }
 }
