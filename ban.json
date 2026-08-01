@@ -146,5 +146,9 @@
     "sigmajigga": {
         "banneduntil": "Permanent",
         "BanReason": "ban evader acc (banned permanently)"
+    },
+    "CarsonEatsCock": {
+        "banneduntil": "Permanent",
+        "BanReason": "alt acc (banned permanently)"
     }
 }
