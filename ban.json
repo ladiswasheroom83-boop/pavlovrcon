@@ -154,5 +154,9 @@
     "havocSPM3": {
         "banneduntil": "Permanent",
         "BanReason": "alt (banned permanently)"
+    },
+    "carsondihh": {
+        "banneduntil": "Permanent",
+        "BanReason": "alt (banned permanently)"
     }
 }
