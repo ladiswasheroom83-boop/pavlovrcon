@@ -150,5 +150,9 @@
     "CarsonEatsCock": {
         "banneduntil": "Permanent",
         "BanReason": "alt acc (banned permanently)"
+    },
+    "havocSPM3": {
+        "banneduntil": "Permanent",
+        "BanReason": "alt (banned permanently)"
     }
 }
