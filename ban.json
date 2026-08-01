@@ -130,5 +130,9 @@
     "Grannylovesya": {
         "banneduntil": "Permanent",
         "BanReason": "n word text (banned permanently)"
+    },
+    "a.2nd.gen.muha": {
+        "banneduntil": "Permanent",
+        "BanReason": "left during admin sit and also rdmed (banned permanently)"
     }
 }
