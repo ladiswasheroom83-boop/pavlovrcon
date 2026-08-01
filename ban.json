@@ -162,5 +162,9 @@
     "Leader.of.Diddy.partyy": {
         "banneduntil": "Permanent",
         "BanReason": "alt (banned permanently)"
+    },
+    "sig11": {
+        "banneduntil": "Permanent",
+        "BanReason": "alt (banned permanently)"
     }
 }
