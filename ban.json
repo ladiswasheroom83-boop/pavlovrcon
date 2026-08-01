@@ -166,5 +166,9 @@
     "sig11": {
         "banneduntil": "Permanent",
         "BanReason": "alt (banned permanently)"
+    },
+    "Sybil_Pseudoregalia": {
+        "banneduntil": "2026-08-04 03:27:34",
+        "BanReason": "breaking nlr+rdm (banned for 3d)"
     }
 }
