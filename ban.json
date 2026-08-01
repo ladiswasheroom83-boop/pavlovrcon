@@ -142,5 +142,9 @@
     "PHSweetieFox": {
         "banneduntil": "Permanent",
         "BanReason": "ban evader alt acc (banned permanently)"
+    },
+    "sigmajigga": {
+        "banneduntil": "Permanent",
+        "BanReason": "ban evader acc (banned permanently)"
     }
 }
