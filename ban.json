@@ -134,5 +134,9 @@
     "a.2nd.gen.muha": {
         "banneduntil": "Permanent",
         "BanReason": "left during admin sit and also rdmed (banned permanently)"
+    },
+    "jayyzox": {
+        "banneduntil": "Permanent",
+        "BanReason": "slurs (banned permanently)"
     }
 }
